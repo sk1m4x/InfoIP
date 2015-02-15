@@ -15,5 +15,8 @@ Advanced Geolocation
 * socket
 * os
 
-### Tutorial ###
-https://www.youtube.com/watch?v=uh8PnyRG8VQ
+### Tutorial de Instalação ###
+https://www.youtube.com/watch?v=G_teI8d89rg
+
+### Tutorial de Uso ###
+https://www.youtube.com/watch?v=Qkq62S6EZyA
