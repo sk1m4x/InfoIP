@@ -176,7 +176,8 @@ It's possible determine a target IP, Skype account or Host.\n"""
 
 class Update:
 	def Load(self):
-		print "%sAtualizacao %s" % (White, Default)
+		print ("%sChecking for updates %s" %(Green, Default))
+		os.system("git fetch && git pull origin master")
 
 class ReadFile:
 	def View_Hosts(self):
