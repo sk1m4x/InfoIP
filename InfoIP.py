@@ -87,4 +87,4 @@ try:
 			print "%s$ python %s --help %s\n" % (White, sys.argv[0], Default)
 
 except IndexError: Help().Window()
-except ImportError: print "%sLibraries missing: %sSee the source code to check the libraries or read the README in http://github.com/sk1m4x/InfoIP/.%s" % (Red, Basic_Red, Default)
+except ImportError: print "%sLibraries missing: %s$ python Check_Modules.py%s" % (Red, Basic_Red, Default)
